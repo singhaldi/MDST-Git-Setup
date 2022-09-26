@@ -1,0 +1,6 @@
+Introduce yourself in this file!
+
+Tell us your name, year, school, major (if you are undecided, write down the frontrunners), and a fun fact!
+
+Hi! My name is Divya Singhal and I'm a second-year student studying computer science at UMich's CoE. A fun fact about me is that I 
+play the piano, guitar, and flute. 
